@@ -6,5 +6,8 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-contacto = Contacto.create(nombre: "Efren Aguilar", telefono: "555555", descripcion: "Desarrollador iOS")
-contacto = Contacto.create(nombre: "Francisco Hernandez", telefono: "777777", descripcion: "Dorado")
+contacto = Contacto.create(nombre: "Efren", telefono: "555555", descripcion: "Desarrollador iOS")
+contacto = Contacto.create(nombre: "Paco", telefono: "9341893", descripcion: "Dorado")
+contacto = Contacto.create(nombre: "Sergio", telefono: "03485432", descripcion: "Dorado")
+contacto = Contacto.create(nombre: "Carolina", telefono: "856237", descripcion: "Dorado")
+contacto = Contacto.create(nombre: "Edgar", telefono: "712357", descripcion: "Dorado")
